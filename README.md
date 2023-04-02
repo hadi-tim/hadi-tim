@@ -2,16 +2,15 @@
 
 ### Who am I?
 ---
-
 My name is Hadi and I am a Geophysicist with 15 years experience in the Oil & Gas industry. I really enjoy solving Geophysics related issues using my Python programming skills.
 
 ### Skills and Experience
-
-•	Seismic data processing and Quality Control: Omega, Seismic Unix, ProMAX, Petrel, QGIS.
-•	Seismic Survey Design and Planning: OMNI 3D, iManage.
-•	Advanced acquisition techniques: ISS, High productivity with MSS, DS3 and DS4.
-•	Programming skills: Bash, Python, MATLAB fundamentals.
-•	Project Management: Scheduling, Planning, forecasting, and budgeting using Microsoft Project.	
+---
+* Seismic data processing and Quality Control: Omega, Seismic Unix, ProMAX, Petrel, QGIS.
+* Seismic Survey Design and Planning: OMNI 3D, iManage.
+* Advanced acquisition techniques: ISS, High productivity with MSS, DS3 and DS4.
+* Programming skills: Bash, Python, MATLAB fundamentals.
+* Project Management: Scheduling, Planning, forecasting, and budgeting using Microsoft Project.	
 
 
 - 🔭 I’m currently working on My own company 
