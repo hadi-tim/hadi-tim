@@ -1,8 +1,8 @@
-### Hi there 👋, Hadi Timediouine
-#### Geophysics and Data Analysis
 ![Geophysics and Data Analysis](https://wallpaperaccess.com/full/3753194.jpg)
 
-I'm Hadi from Algeria, an experienced Geophysicist. I really enjoy solving Geophysics related issues using my Python programming skills.
+### Who am I?
+
+My name is Hadi and I am a Geophysicist with 15 years experience in the Oil & Gas industry. I really enjoy solving Geophysics related issues using my Python programming skills.
 
 Skills: Seismic Imaging / SED / Python / Project Management
 
