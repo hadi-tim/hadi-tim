@@ -1,7 +1,4 @@
-![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0e8lcOc1ur3xOORZqteVomRDXIO9OvbnZUQ&usqp=CAU)
-
-
-
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVixNEiG6kQqY3Fc1VlZUE4Uh7uYke2_1kqA&usqp=CAU)
 # Who am I?
 My name is Hadi and I am a Geophysicist with 15 years experience in the Oil & Gas industry. I really enjoy working with scripting languagessolving Geophysics related issues using my Python programming skills.
 
