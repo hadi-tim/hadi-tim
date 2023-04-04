@@ -11,6 +11,11 @@ My name is Hadi and I am a Geophysicist with 15 years experience in the Oil & Ga
 * Programming skills: Bash, Python, MATLAB fundamentals.
 * Project Management: Scheduling, Planning, forecasting, and budgeting using Microsoft Project.	
 
+# Programming Skills
+
+<img src="{https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue}" />
+
+
 # Conenct with me (Send me a message!)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/hadi-tim)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/hadi-timediouine-42049312/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://hadi-tim.github.io/)  
 
