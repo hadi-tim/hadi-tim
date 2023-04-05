@@ -22,14 +22,30 @@ My name is Hadi and I am a Geophysicist with 15 years experience in the Oil & Ga
 # Github
 [![Hadi's GitHub stats](https://github-readme-stats.vercel.app/api?username=hadi-tim)](https://github.com/hadi-tim/github-readme-stats)
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="left">Languages and Tools:</h3>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 <div style="display: inline_block"<br>
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
-  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
+  <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white">
+  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
+  <img src="">
+  <img src="">
+  <img src="">
+</div>
+
+<p align="left">
+</p>
+<div style="display: inline_block"<br>
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+
+
+
 </div>
 
 
