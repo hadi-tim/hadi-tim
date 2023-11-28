@@ -2,7 +2,7 @@
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVixNEiG6kQqY3Fc1VlZUE4Uh7uYke2_1kqA&usqp=CAU" width="1000" height="110">
 
 # Who am I?
-My name is Hadi and I am a Geophysicist with 15 years experience in the Oil & Gas industry. I really enjoy working with scripting languages, solving Geophysics related issues using my Python programming skills.
+My name is Hadi and I am a Geophysicist with over 15 years experience in the Oil & Gas industry. I really enjoy working with scripting languages, solving Geophysics related issues using my Python programming skills.
 
 - 🔭 I’m currently working on My own company 
 
