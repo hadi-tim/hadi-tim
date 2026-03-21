@@ -4,7 +4,7 @@
 # Who am I?
 My name is Hadi and I am a Geophysicist with almost 20 years experience in the Oil & Gas industry. I really enjoy working with scripting languages, solving Geophysics related issues using my Python programming skills.
 
-- 🔭 I’m currently working on My own company 
+- 🔭 Currently working on starting my own company 
 
 # Geophysical Skills
 * Seismic data processing and Quality Control: Omega, Seismic Unix, ProMAX, Petrel, QGIS.
